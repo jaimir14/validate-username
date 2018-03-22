@@ -16,7 +16,7 @@ To run the program you can use this commands:
  - `>mvn exec:java`
 
 
-###Preview
+### Preview
 
  Running the app you will find the following menu where you can choose what option you want:
  
