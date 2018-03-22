@@ -1,0 +1,23 @@
+{
+	"usernames": [
+		"john",
+		"test",
+		"peter",
+		"william",
+		"william1",
+		"Mrwilliam",
+		"Lordjohn"
+	],
+	"restrictedWords": [
+		"cannabis",
+		"abuse",
+		"crack",
+		"damn",
+		"drunk",
+		"grass",
+		"xxx",
+		"facebook",
+		"google",
+		"apple"
+	]
+}
